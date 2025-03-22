@@ -4,7 +4,7 @@ In this 7+-week online course, students investigate how accessibility issues in 
 
 ## Important Links
 
-- [Inclusive Design Book](https://learning-oreilly-com.ezproxy1.lib.asu.edu/library/view/inclusive-design-for/9781484250167/html/Cover.xhtml)
+- [Inclusive Design Book](https://learning-oreilly-com.ezproxy1.lib.asu.edu/library/view/inclusive-design-for/9781484250167/html/Cover.xhtml) - Gilbert
 
 ## Assignments
 - Mon Mar 24, 2025

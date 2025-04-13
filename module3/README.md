@@ -35,7 +35,7 @@ Module 3 explores the tools and techniques available to assess the accessibility
 ### Assessment Methods and Tools
 
 - Assistive technologies: software or hardware to improve interaction (e.g., screen readers, screen magnifiers, speech recognition, selection switches)
-- Adaptive stategies: techniques to improve interaction (e.g., increase text size, turning on captions)
+- Adaptive strategies: techniques to improve interaction (e.g., increase text size, turning on captions)
 - Evaluation of accessibility tools
   - Manual inspection - relies on combination of guidelines and technologies
     - Humans look at the product (e.g., against laws and guidelines)
